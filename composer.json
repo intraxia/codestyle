@@ -1,0 +1,15 @@
+{
+    "name": "intraxia/codestyle",
+    "description": "The Intraxia PHP Coding Standards.",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "~2.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mAAdhaTTah",
+            "email": "jamesorodig@gmail.com"
+        }
+    ],
+    "require": {}
+}
