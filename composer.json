@@ -3,7 +3,7 @@
   "description": "The Intraxia PHP Coding Standards.",
   "require": {
     "squizlabs/php_codesniffer": "~2.2",
-    "wp-coding-standards/wpcs": "0.6.0"
+    "wp-coding-standards/wpcs": "0.8.0"
   },
   "license": "MIT",
   "authors": [
