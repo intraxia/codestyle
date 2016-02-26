@@ -11,6 +11,7 @@
 		<exclude name="Squiz.Commenting.FunctionComment.EmptyThrows" />
 		<exclude name="Squiz.Commenting.InlineComment.NotCapital"/>
 		<exclude name="Squiz.Commenting.InlineComment.InvalidEndChar"/>
+		<exclude name="Generic.CodeAnalysis.EmptyStatement.DetectedCATCH"/>
 		<include name="Squiz.Commenting.FunctionComment.TypeHintMissing" />
 	</rule>
 </ruleset>
